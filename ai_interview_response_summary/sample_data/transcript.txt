@@ -1,0 +1,3 @@
+Interviewer: Explain overfitting.
+
+ Candidate: Overfitting occurs when a model performs well on training data but poorly on unseen data.

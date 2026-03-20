@@ -1,0 +1,8 @@
+{
+  "domain": "string",
+  "projects_mentioned": ["string"],
+  "technical_concepts": ["string"],
+  "strengths": ["string"],
+  "weaknesses": ["string"],
+  "final_summary": "string"
+}
