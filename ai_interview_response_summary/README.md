@@ -21,7 +21,7 @@ This module is designed as part of an AI Interview & Assessment System, focusing
 ---
 
 🏗️ Project Structure
-ai-interview-insight-engine
+AI_INTERVIEW_RESPONSE_SUMMARY
 │
 ├── app.py                         # Main entry point
 ├── requirements.txt               # Dependencies
