@@ -95,7 +95,7 @@ Uses TF-IDF + KMeans to group responses into topics.
 
 📦 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ai-interview-insight-engine.git
+git clone https://github.com/AleezaMajid/AI_Interview_Summarization.git
 cd ai-interview-insight-engine
 
 2️⃣ Install Dependencies
